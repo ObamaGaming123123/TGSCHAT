@@ -1,5 +1,5 @@
 # TGSCHAT
-TGS is gay and doesn't allow you to talk via discord on school wifi.
+TGS blocks Discord and doesn't allow you to talk via discord on school wifi.
 One person needs to be a server and client
 Read the ReadMe.txt In ther server file
 
